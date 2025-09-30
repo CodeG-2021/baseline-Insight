@@ -28,7 +28,6 @@ Simplicity: Upload a project via ZIP or GitHub and get results in seconds.
 
 Automation: Integrates with real development workflows.
 
-Education: Turns compatibility checks into learning opportunities.
 
 Trust: Powered by the official web-features dataset from the Baseline initiative.
 
